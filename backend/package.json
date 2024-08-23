@@ -1,0 +1,22 @@
+{
+  "name": "la-cuny-compass",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "mongoose": "^5.x",
+    "dotenv": "^8.x",
+    "cors": "^2.x",
+    "body-parser": "^1.x",
+    "openai": "^3.x",
+    "winston": "^3.x",
+    "jsonwebtoken": "^8.x" 
+  },
+  "devDependencies": {
+    "nodemon": "^2.x"
+  }
+}
