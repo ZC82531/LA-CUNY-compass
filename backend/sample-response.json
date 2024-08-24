@@ -1,0 +1,27 @@
+{
+    "id": "chatcmpl-9zPtd0flpxCwQI9m1VnWk7ZxDbLil",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "Certainly! The City College of New York (CCNY) offers several tutoring services to support students in their academic pursuits. Here are two key resources for tutoring:\n\n1. **The Gateway Institute for Undergraduate Faculty Collaboration**:\n   - **Overview**: The Gateway Institute provides academic support, including tutoring across various subjects. It is a great resource for students looking for guidance in challenging courses.\n   - **Access**: You can visit their website for more information and to find specific tutoring schedules and subjects offered: [Gateway Institute](https://www.ccny.cuny.edu/gateway).\n   - **Contact**: For direct inquiries, you can reach out to them by phone at (212) 650-5372.\n\n2. **The Writing Center**:\n   - **Overview**: The Writing Center offers tutoring specifically focused on improving writing skills across disciplines. They provide one-on-one sessions where students can work on essays, research papers, and other writing assignments.\n   - **Access**: To learn more about their services and make appointments, visit their website: [CCNY Writing Center](https://www.ccny.cuny.edu/writingcenter).\n   - **Contact**: You can also get in touch with them via email at writingcenter@ccny.cuny.edu for any specific questions.\n\nBoth resources are excellent for enhancing your academic success through personalized support!",
+          "refusal": null,
+          "role": "assistant",
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1724424581,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_48196bc67a",
+    "usage": {
+      "completion_tokens": 274,
+      "prompt_tokens": 106,
+      "total_tokens": 380
+    }
+  }
